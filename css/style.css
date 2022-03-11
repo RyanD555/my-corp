@@ -1,0 +1,30 @@
+.carousel-inner > .item > img {
+    height: 1000px;
+}
+
+.carousel1 {
+    padding: 20px;
+}
+
+.logoHeader {
+    font-size: 20px;
+    text-align: left;
+    padding: 20px;
+}
+
+.nav {
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.showCaseLink, .aboutLink {
+    padding: 10px;
+}
+
+.aboutText {
+    text-align: center;
+    font-size: 25px;
+}
+
+
